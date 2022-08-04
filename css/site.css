@@ -85,13 +85,13 @@
             margin: auto;
         }
 
-        .tweet-container {
-            min-width: 30px;
-            min-height: 100px;
-            margin: 0 20px;
+        .facebook-container {
+            min-width: 10px;
+            min-height: 70px;
+            margin: 0 10px;
             position: absolute;
-            left: -100px;
-            top: 110px;
+            left: -120px;
+            top: 70px;
         }
         .content-body{
             min-width: 400px;
@@ -124,7 +124,7 @@
                 font-size: 12px;
                 line-height: 18px;
             }
-            .tweet-container {
+            .facebook-container {
                 top: 80px;
             }
             .content{
